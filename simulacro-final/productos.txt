@@ -1,0 +1,2 @@
+ID: 45, Nombre: pepas, Precio: 543.0
+ID: 71, Nombre: oregano, Precio: 45.0
